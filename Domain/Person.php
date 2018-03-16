@@ -5,13 +5,13 @@ class Person {
     public $id;
     public $name;
     public $age;
-    public $wage;
+    public $weight;
     
-    public function Person($id, $name, $age, $wage){
+    public function Person($id, $name, $age, $weight){
         $this->id = $id;
         $this->name = $name;
         $this->age = $age;
-        $this->wage = $wage;
+        $this->weight = $weight;
     }
  
     
