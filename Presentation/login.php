@@ -6,11 +6,11 @@
     <form action="../Business/UserLoginAction.php" method="post">
         <table>
             <tr>
-                <td>Name:</td>
+                <td>Name: Nombre:</td>
                 <td><input type="text" name="txtName" id="txtName"></td>
             </tr>
             <tr>
-                <td>Password:</td>
+                <td>Password Password Password:</td>
                 <td><input type="password" name="txtPassword" id="txtPassword"></td>
             </tr>
             <tr>
