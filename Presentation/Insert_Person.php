@@ -33,7 +33,13 @@
 
                     <form action="../Business/PersonInsertAction.php" method="get" >
                         <table>
-                            
+                            <tr>
+                                <td>NOmbre de Persona</td>
+                                <td>
+                                    <input type="text" name="txtName" id="txtName"></input>
+                                </td>
+                                <td><div id="msgErrorName" style="color: red">*</div></td>
+                            </tr>
                             <tr>
                                 <td>Age</td>
                                 <td>
